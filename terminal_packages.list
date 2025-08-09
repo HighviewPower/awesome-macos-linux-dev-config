@@ -25,6 +25,7 @@ jenv               # Java version manager, https://www.jenv.be/
 node               # TypeScript, JavaScript
 nvm                # Node version manager, https://github.com/nvm-sh/nvm
 micromamba         # A tiny version of mamba package manager written in C++, https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html
+pixi 		   # Conda and pip package manager for the new era.
 
 # DevOps tools
 ## Docker tools
@@ -51,5 +52,4 @@ kustomize
 ## Infrastructure as Code tools
 ansible
 molecule # https://github.com/ansible/molecule
-molecule-plugin
 terraform
