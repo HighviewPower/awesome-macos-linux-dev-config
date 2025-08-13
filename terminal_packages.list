@@ -49,6 +49,9 @@ kubeseal
 helm
 kustomize
 
+## PostgreSQL
+libpq
+
 ## Infrastructure as Code tools
 ansible
 molecule # https://github.com/ansible/molecule

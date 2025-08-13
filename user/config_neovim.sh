@@ -6,6 +6,8 @@ mv ~/.local/share/nvim{,$BAK_EXTENSION} || true
 mv ~/.local/state/nvim{,$BAK_EXTENSION} || true
 mv ~/.cache/nvim{,$BAK_EXTENSION} || true
 
-full_path=$(realpath $0)
-dir_path=$(dirname $full_path)
-cp -r $dir_path/config/.config/nvim ~/.config
+#full_path=$(realpath $0)
+#dir_path=$(dirname $full_path)
+#cp -r $dir_path/config/.config/nvim ~/.config
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
