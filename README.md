@@ -18,8 +18,8 @@ for
 1. Install homebrew via the following instructions from https://brew.sh/
 2. Install GitHub CLI via `brew install gh`
 3. Install ssh key via `gh auth login`
-4. Clone this repository via `git clone git@github.com:HighviewPower/awesome-macos-config.git`
-5. cd into the repository via `cd awesome-macos-config`
+4. Clone this repository via `git@github.com:HighviewPower/awesome-macos-linux-dev-config.git`
+5. cd into the repository via `cd ./awesome-macos-linux-dev-config`
 
 ## Installation
 ### System-wide packages for TERMINAL experience
