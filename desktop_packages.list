@@ -1,3 +1,7 @@
+# VPN tools
+homebrew/cask/passepartout # Wireguard UI
+
+#
 iterm2               # better terminal
 coteditor            # Simple open-source editor, https://github.com/coteditor/CotEditor
 appcleaner           # Easier removal of Apps
