@@ -24,6 +24,8 @@ lsd                # A next get ls command in Rust, https://github.com/lsd-rs/ls
 wget
 font-meslo-for-powerlevel10k  # Meslo fonts for PowerLevel10k theme for OhMyZsh
 midnight-commander
+screen
+tmux
 
 # Dev tools
 java
@@ -55,6 +57,7 @@ krew
 kubeseal
 helm
 kustomize
+tilt
 
 ## PostgreSQL
 libpq
