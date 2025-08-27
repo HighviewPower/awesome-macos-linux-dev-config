@@ -1,9 +1,8 @@
 # Monitoring tools
 htop
 
-
 # VPN tools
-wireguard-tools
+wireguard-tools    # Contains wg-quick utility that allows to start/stop Wireguard tunnels from terminal
 
 # Git tools
 git
@@ -32,10 +31,11 @@ jenv               # Java version manager, https://www.jenv.be/
 node               # TypeScript, JavaScript
 nvm                # Node version manager, https://github.com/nvm-sh/nvm
 micromamba         # A tiny version of mamba package manager written in C++, https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html
-pixi 		   # Conda and pip package manager for the new era.
+pixi 		           # Conda and pip package manager for the new era.
 
 # DevOps tools
 ## Docker tools
+orbstack           # Docker Desktop alternative that can be conntrolled from a terminal without UI - ideal for remote development
 docker-compose
 
 ## Cloud tools
